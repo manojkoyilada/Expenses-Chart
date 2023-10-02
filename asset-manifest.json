@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expenses-Chart/static/css/main.8c03d515.css",
+    "main.js": "/Expenses-Chart/static/js/main.55c54fa5.js",
+    "static/js/787.e7e332ad.chunk.js": "/Expenses-Chart/static/js/787.e7e332ad.chunk.js",
+    "index.html": "/Expenses-Chart/index.html",
+    "main.8c03d515.css.map": "/Expenses-Chart/static/css/main.8c03d515.css.map",
+    "main.55c54fa5.js.map": "/Expenses-Chart/static/js/main.55c54fa5.js.map",
+    "787.e7e332ad.chunk.js.map": "/Expenses-Chart/static/js/787.e7e332ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c03d515.css",
+    "static/js/main.55c54fa5.js"
+  ]
+}
